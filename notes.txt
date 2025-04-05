@@ -1,0 +1,9 @@
+require => one moduule into another
+
+module.export =>
+
+common js module => defult use in node , old way , synchronous , non stict module 
+
+es module => defult use by react , async avialable , strict module
+
+
